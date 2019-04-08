@@ -1,0 +1,77 @@
+G:\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+G:\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+G:\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+G:\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+G:\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+G:\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend - копия\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+C:\Users\Michael\source\repos\Backend - копия\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+C:\Users\Michael\source\repos\Backend - копия\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Backend - копия\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend - копия\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend - копия\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend - копия - копия (2)\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+C:\Users\Michael\source\repos\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+C:\Users\Michael\source\repos\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\Michael\source\repos\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+A:\Универ\3 курс\АРКПЗ\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+E:\Учёба\3 курс\АРКПЗ\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
+A:\Универ\3 курс\Course\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+A:\Универ\3 курс\Course\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+A:\Универ\3 курс\Course\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+A:\Универ\3 курс\Course\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+A:\Универ\3 курс\Course\Course\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+A:\Универ\3 курс\Course\Course\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb

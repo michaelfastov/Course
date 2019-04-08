@@ -1,0 +1,52 @@
+<!DOCTYPE html>  
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <title></title>
+   </head>
+   <body>
+      <h1>{{title}}</h1>
+      <h3>Invoice</h3>
+      <hr />
+
+      <div class="col-md-4">
+            <select class="form-control" [(ngModel)]="selectedCompany">
+            <option *ngFor="let x of mycompanylist"  [value]="x.id">{{x.name}}
+            </option>
+          </select>
+        </div>
+
+        <div class="col-md-4">
+         <select class="form-control" [(ngModel)]="selectedVendor">
+         <option *ngFor="let x of vendorlist"  [value]="x.id">{{x.name}}
+         </option>
+       </select>
+     </div>
+
+
+
+      
+      <form [formGroup]="invoiceForm" (ngSubmit)="save()" #formDir="ngForm" novalidate>  
+      <div class="form-group row">
+
+         <div class="col-md-4">
+            <input hidden class="form-control" type="text" formControlName="CompanyID" value ="{{selectedCompany}}">
+         </div>
+
+         <!--span class="text-danger" *ngIf="invoiceForm.hasError('required', 'CompanyID') && formDir.submitted">  
+         CompanyID is required.  
+         </span--> 
+      </div>
+      <div class="form-group row">
+         <div class="col-md-4">
+              <input hidden class="form-control" type="text" formControlName="VendorID" value ="{{selectedVendor}}"> </div>
+      </div>
+      <div class="form-group"> <button type="submit" class="btn btn-default">Save</button> <button class="btn" (click)="cancel()">Cancel</button> </div>
+      </form> 
+      
+      
+     
+     
+
+   </body>
+</html>

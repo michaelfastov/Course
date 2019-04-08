@@ -1,0 +1,12 @@
+.mobileShow {display: block;} 
+.desktopShow {display: none;} 
+
+  /* Smartphone Portrait and Landscape */ 
+  @media screen and (min-width: 700px){ 
+      .mobileShow {display: none;}
+      .desktopShow{display: inline;}
+  }
+
+
+
+  /* Smartphone Portrait and Landscape */ 

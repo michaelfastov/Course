@@ -1,0 +1,23 @@
+<h1>Company Invoices</h1>  
+<p *ngIf="!invoicelistCompany"><em>Loading...</em></p>
+ 
+<p> <a [routerLink]="['/create-invoice']">Create New</a> </p>  
+<table class='table table-bordered' *ngIf="invoicelistCompany">  
+    <thead style="background-color:green;font-weight:bold;color:white;">  
+        <tr>  
+            <th>InvoiceID</th>  
+            <th>CompanyID</th>  
+            <th>VendorID</th>  
+            <th>isDelivered</th>  
+        </tr>  
+    </thead>  
+    <tbody>  
+        <tr *ngFor="let invoice of invoicelistCompany">  
+            <td>{{ invoice.id }}</td>  
+            <td>{{ invoice.companyID}}</td>  
+            <td>{{ invoice.vendorID}}</td>
+            <td>{{ invoice.isDelivered}}</td>
+            <td> <a [routerLink]="" (click)="setDelivered(invoice.id)">Set Delivered</a> | <a [routerLink]="" (click)="deleteInvoice(invoice.id)">Delete</a> </td>  
+        </tr>  
+    </tbody>  
+</table> 

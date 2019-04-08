@@ -1,0 +1,40 @@
+<h1>Added products</h1>
+<table class='table table-bordered' *ngIf="invoiceItemlist">
+   <thead style="background-color:green;font-weight:bold;color:white;">
+      <tr>
+         <th>Product</th>
+         <th>Quantity</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr *ngFor="let invoiceitem of invoiceItemlist">
+         <td>{{ invoiceitem.productID }}</td>
+         <td>{{ invoiceitem.productQuantity }}</td>
+         <a [routerLink]="" (click)="deleteInvoiceItem(invoiceitem.id)">Delete</a>
+      </tr>
+   </tbody>
+</table>
+<p *ngIf="isAccepted">This Invoice is Accepted and products can not be added</p> 
+
+<h3>Add products</h3>
+<div class="col-md-4" style="padding: 0%;margin: 0%">
+   <select class="form-control" [(ngModel)]="selectedProduct">
+      <option *ngFor="let x of productlist" [value]="x.id">{{x.name}}
+      </option>
+   </select>
+</div>
+
+<form [formGroup]="invoiceItemForm" (ngSubmit)="saveInvoiceItem()" #formDir="ngForm" novalidate>
+   <div class="form-group row">
+      <div class="col-md-4">
+         <input hidden class="form-control" type="text" formControlName="productID" value="{{selectedProduct}}">
+      </div>
+   </div>
+   <div class="form-group row">
+      <label class=" control-label col-md-12" for="productQuantity">ProductQuantity</label>
+      <div class="col-md-4">
+         <input class="form-control" type="text" formControlName="productQuantity">
+      </div>
+   </div>
+   <div class="form-group"> <button type="submit" class="btn btn-default">Add Product</button></div>
+</form>

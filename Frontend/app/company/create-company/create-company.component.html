@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="utf-8" />
+   <title></title>
+</head>
+
+<body>
+   <h1>{{title}}</h1>
+   <h3>Company</h3>
+   <hr />
+   <form [formGroup]="companyForm" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+      <div class="form-group row">
+         <label class=" control-label col-md-12" for="name">Company Name</label>
+         <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="name">
+         </div>
+      </div>
+      <div class="form-group row">
+         <label class=" control-label col-md-12" for="description">Description</label>
+         <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="description">
+         </div>
+      </div>
+      <!--span class="text-danger" *ngIf="companyForm.hasError('required', 'name') && formDir.submitted">  
+         Company Name is required.  
+         </span-->
+
+      <div class="form-group"> <button type="submit" class="btn btn-default">Save</button> <button class="btn" (click)="cancel()">Cancel</button>
+      </div>
+   </form>
+</body>
+
+</html>

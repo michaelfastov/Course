@@ -1,0 +1,41 @@
+<h1>Vendors</h1>  
+<p *ngIf="!vendorlist"><em>Loading...</em></p>  
+<p> <a [routerLink]="['/create-vendor']">Create New</a> </p>  
+<table class='table table-bordered' *ngIf="vendorlist">  
+    <thead style="background-color:green;font-weight:bold;color:white;">  
+        <tr>  
+            <th>VendorID</th>  
+            <th>Name</th>  
+            <th>Descriotion</th>  
+            <th>CustomerID</th> 
+        </tr>  
+    </thead>  
+    <tbody>  
+        <tr *ngFor="let vendor of vendorlist">  
+            <td>{{ vendor.id }}</td>  
+            <td>{{ vendor.name}}</td>  
+            <td>{{ vendor.description}}</td>
+            <td>{{ vendor.customerID}}</td>
+            <!-- <td> <a [routerLink]="['/create-vendor/',vendor.id]">Edit</a> | <a [routerLink]="" (click)="deleteVendor(vendor.id)">Delete</a> </td>   -->
+        </tr>  
+    </tbody>  
+</table> 
+<h1  >My Vendors</h1>  
+<table class='table table-bordered' *ngIf="myvendorlist">  
+    <thead style="background-color:green;font-weight:bold;color:white;">  
+        <tr>  
+            <th>CompanyID</th>  
+            <th>Name</th>  
+            <th>Descriotion</th>  
+            <th>Functions</th>  
+        </tr>  
+    </thead>  
+    <tbody>  
+        <tr *ngFor="let vendor of myvendorlist">  
+            <td>{{ vendor.id }}</td>  
+            <td>{{ vendor.name}}</td>  
+            <td>{{ vendor.description}}</td>
+            <td><a [routerLink]="['/create-vendor/',vendor.id]">Edit</a> | <a [routerLink]="" (click)="deleteVendor(vendor.id)">Delete</a> </td>  
+        </tr>  
+    </tbody>  
+</table>
